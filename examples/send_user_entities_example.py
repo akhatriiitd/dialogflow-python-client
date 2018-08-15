@@ -27,7 +27,7 @@ except ImportError:
 
 import uuid
 
-CLIENT_ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
+CLIENT_ACCESS_TOKEN = '7feb3e4315c444a7811193101181008'
 
 
 def main():
